@@ -1,5 +1,7 @@
 # Gygabite B660M Gaming X DDR4, Intel i7 12700 and RX 6600
 
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-B660M-GAMING-X-DDR4-CORE-i7-12700-AMD-RX-6600-PUBLIC/assets/23700365/3f3b2a90-df71-45f1-9ffd-f04efb1f15fa)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
